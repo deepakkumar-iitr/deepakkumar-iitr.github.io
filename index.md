@@ -34,10 +34,10 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 
 ## Education
 
-**Ph.D.* (Computer Science)**\
+**PhD(Computer Science and Engineering)**\
 _Indian Institute of Technology, Roorkee_\
 **Joining Date:** Dec, 2021\
-**Course Work Details: ** 
+**Course Work Details: **\ 
     - Computer Vision  \
     - Deep Learning          \
     - Numerical Optimization     \
