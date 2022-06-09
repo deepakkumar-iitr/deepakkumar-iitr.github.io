@@ -30,23 +30,22 @@ body {
 
 ## About
 
-I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2019 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my bachelor's and master's degree from [Dayalbagh Educational Institute, Agra](https://www.dei.ac.in/dei/).  
+I am a Ph.D. student in the Computer Science and Engineering department at Indian Institute of technology, Roorkee. I have joined the Ph.D. in Dec, 2021 under supervision of Prof. [Balasubramanian Raman](https://balarsgroup.github.io/). Before joining Ph.D., I have completed my master's degree from [Motilal Nehru National Institute of Technology, Allahabad](http://www.mnnit.ac.in/).  
 
 ## Education
 
 **Ph.D.* (Computer Science)**\
 _Indian Institute of Technology, Roorkee_\
-**Joining Date:** Dec, 2019\
-**Course Work Details: (CGPA: 9.26)** \
-    - Evolutionary Algorithms  \
-    - Medical Imaging          \
-    - Research Methodology     \
-    - Soft Computing           \
-**Research Area:** Medical Image Analysis \
+**Joining Date:** Dec, 2021\
+**Course Work Details: ** \
+    - Computer Vision  \
+    - Deep Learning          \
+    - Numerical Optimization     \
+**Research Area:** Computer Vision \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
-**Int. M.Tech. (Computer Science), 2019**\
-_Dayalbagh Educational Institute, Agra_ \
+**M.Tech. (Computer Science and Engg.), 2016**\
+_Motilal Nehru National Institute of Technology Allahabad \
 **Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr) \
 **CGPA**: 8.51
 
