@@ -38,14 +38,15 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 _Indian Institute of Technology, Roorkee_\
 **Joining Date:** Dec, 2021\
 **Course Work Details: ** \
+
     - Computer Vision  \
     - Deep Learning          \
     - Numerical Optimization     \
-**Research Area:** Computer Vision \
+**Research Area:** Computer Vision 
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
 **M.Tech. (Computer Science and Engg.), 2016**\
-_Motilal Nehru National Institute of Technology Allahabad \
+_Motilal Nehru National Institute of Technology Allahabad_ \
 **Supervisor:** [Prof.Rajesh Tripathi](http://mnnit.ac.in/profile/rajeshtcsed) \
 **CGPA**: 8.25
 
