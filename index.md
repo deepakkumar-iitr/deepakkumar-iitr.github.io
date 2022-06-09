@@ -37,7 +37,7 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 **PhD(Computer Science and Engineering)**\
 _Indian Institute of Technology, Roorkee_\
 **Joining Date:** Dec, 2021\
-**Course Work Details: **\ 
+**Course Work Details: **
     - Computer Vision  \
     - Deep Learning          \
     - Numerical Optimization     \
@@ -50,7 +50,7 @@ _Motilal Nehru National Institute of Technology Allahabad_ \
 **CGPA**: 8.25
 
 **B.Tech. (Computer Science and Engineering), 2012**\
-_Uttar Pradesh Technical University, Lucknow_\
+_Uttar Pradesh Technical University, Lucknow_
 
 ## Achievements 
    - GATE qualified, 2013, 2014, 2015, 2020
