@@ -46,28 +46,17 @@ _Indian Institute of Technology, Roorkee_\
 
 **M.Tech. (Computer Science and Engg.), 2016**\
 _Motilal Nehru National Institute of Technology Allahabad \
-**Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr) \
-**CGPA**: 8.51
+**Supervisor:** [Prof.Rajesh Tripathi](http://mnnit.ac.in/profile/rajeshtcsed) \
+**CGPA**: 8.25
 
-**Int. M.Sc. (Computer Science), 2018**\
-_Dayalbagh Educational Institute, Agra_\
-**Supervisor:** [Dr. R.S. Pavithr](https://www.dei.ac.in/dei/science/index.php/phy-faculty/90-physicsfaculty/159-mr-r-s-pavithr) \
-**CGPA**: 8.30
+**B.Tech. (Computer Science and Engineering), 2012**\
+_Uttar Pradesh Technical University, Lucknow_\
 
-**B.Sc. (Computer Science), 2017**\
-_Dayalbagh Educational Institute, Agra_\
-**CGPA**: 8.45
-
-## Achievements
-   - Gave a topper talk on chamomile tea with toppers for JRF strategy [(Link)](https://youtu.be/Uv5tegbd3Vs) 
-   - NTA NET JRF (99.88% ile), 2019
-   - GATE qualified, 2018
-   - NET (June, Dec) qualified, 2018
-   - Awarded third in National Science Exhibition, 2013
-   - Third rank in city, National Science Olympiad, 2011
+## Achievements 
+   - GATE qualified, 2013, 2014, 2015, 2020
+   - NET qualified, 2015, 2017, 2018
  
 ## Research_Interests
-   - Medical Imaging
    - Computer Vision 
    - Machine learning  
    - Deep Learning
@@ -81,10 +70,10 @@ _Dayalbagh Educational Institute, Agra_\
    - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
    
 ##   Contact
-Anshul Pundhir \
+Deepak Kumar \
 Department of Computer Science and Engineering\
 Machine Vision Lab\
 Indian Institute of Technology, Roorkee\
-e-mail: anshul_p [at] cs [dot] iitr [dot] ac [dot] in
+e-mail: d_kumar [at] cs [dot] iitr [dot] ac [dot] in
 
    
