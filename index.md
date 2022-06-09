@@ -26,7 +26,7 @@ body {
   
 </div>
 
-<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/21Anshul.jpg" width="210" height="260" />
+<img src="https://balarsgroup.github.io/Machine%20Vision%20Lab,%20IITR_files/22Deepak.jpg" width="210" height="260" />
 
 ## About
 
