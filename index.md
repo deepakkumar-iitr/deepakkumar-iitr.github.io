@@ -53,8 +53,8 @@ _Motilal Nehru National Institute of Technology Allahabad_ \
 _Uttar Pradesh Technical University, Lucknow_
 
 ## Achievements 
-   - GATE qualified, 2013, 2014, 2015, 2020
-   - NET qualified, 2015, 2017, 2018
+   - GATE qualified, 2013, 2014, 2015
+   - UGC-NET qualified in Dec 2015, November 2017, July 2018
  
 ## Research_Interests
    - Computer Vision 
@@ -62,13 +62,16 @@ _Uttar Pradesh Technical University, Lucknow_
    - Deep Learning
 
 ## Experience
-   - Intern at IISc Banglore (April-July) 
-   - Attended *The Workshop on Computer Vision and Image Processing (WCVIP)*, IIT Roorkee, Uttarakhand, 14-24 Dec 2020 (Virtual) 
-   - Attended *IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, UAE, 25-28 Oct 2020 (Virtual)
-   - Organized a training session on *Dimensionality Reduction Algorithms* during the workshop on Digital Image Processing & Applications (DIPA) at NIT Arunachal Pradesh, Aug 2020 (Virtual)
-   - Anshul Pundhir, Deepak Verma, Puneet Kumar and Balasubramanian Raman. "Region extraction based approach for cigarette usage classification using deep learning." 6th IAPR Inetrnational Conference on Computer Vision and Image Processing (CVIP 2021).
-   - Anshul Pundhir, Saurabh Dadhich, Ananya Agarwal, and Balasubramanian Raman, "Towards Improved Skin Lesion Classification using Metadata Supervision", Accepted for publication in 26th International Conference on Pattern Recognition (ICPR 2022), August 21-25, 2022, Montréal Québec, Canada.
+   - Worked as Assistant Professor under TEQIP-III (NPIU-MHRD) at College of Technology GBPUAT, Pantnagar Uttarakhand.
+   - Attended one week training program on “Machine Learning and Its Applications” organized by Electronics and ICT Academy, IIT Roorkee from 27 Oct – 31 Oct, 2018. 
+   - Attended short term course under TEQIP-III on Advanced Pedagogies: Active Learning and Digital Tools held from 24th June to 28th June 2019 at IIT Delhi
+   - Attended short course on Data Science and Analytics during February 17-27, 2020 at Indian Institute of Technology, Gandhinagar.
+   - Resource Person in workshop on Advanced Programming Concepts Using C and Python on September 21st and 23rd, 2019 organized by FOECS, TMU Moradabad
    
+## Professional Membership
+  - Professional member of ACM (Association for computing Machinery)
+  - Associate member of IEI ( The Institution of Engineers (India) )
+
 ##   Contact
 Deepak Kumar \
 Department of Computer Science and Engineering\
