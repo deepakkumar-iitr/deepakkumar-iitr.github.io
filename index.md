@@ -20,7 +20,7 @@ body {
   
   <a href="#about" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>About</pre></a>
   
-  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Anshul_Pundhir_RESUME.pdf" target="Anshul_Pundhir_RESUME.pdf" style="float:right"><pre>Resume</pre></a>
+  <a href="https://github.com/AnshulPundhir/AnshulPundhir.github.io/blob/gh-pages/Deepak_CV.pdf" target="Anshul_Pundhir_RESUME.pdf" style="float:right"><pre>Resume</pre></a>
   
   
   
