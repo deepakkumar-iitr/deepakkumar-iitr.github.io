@@ -62,6 +62,7 @@ _Uttar Pradesh Technical University, Lucknow_
    - Deep Learning
 
 ## Experience
+   - Worked as Assistant Professor at Teerthanker Mahaveer University, Moradabad, Uttar Pradesh.
    - Worked as Assistant Professor under TEQIP-III (NPIU-MHRD) at College of Technology GBPUAT, Pantnagar Uttarakhand.
    - Attended one week training program on “Machine Learning and Its Applications” organized by Electronics and ICT Academy, IIT Roorkee from 27 Oct – 31 Oct, 2018. 
    - Attended short term course under TEQIP-III on Advanced Pedagogies: Active Learning and Digital Tools held from 24th June to 28th June 2019 at IIT Delhi
