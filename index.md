@@ -61,6 +61,10 @@ _Uttar Pradesh Technical University, Lucknow_
    - Machine learning  
    - Deep Learning
 
+## Publications
+   - D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
+International Conference on Computer Vision & Image Processing (CVIP 2022).
+
 ## Experience
    - Worked as Assistant Professor at Teerthanker Mahaveer University, Moradabad, Uttar Pradesh.
    - Worked as Assistant Professor under TEQIP-III (NPIU-MHRD) at College of Technology GBPUAT, Pantnagar Uttarakhand.
