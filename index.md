@@ -62,7 +62,7 @@ _Uttar Pradesh Technical University, Lucknow_
    - Computer Vision 
    - Machine learning  
    - Deep Learning
-
+   - Affective Computing
 
 ## Publications
 <style>
