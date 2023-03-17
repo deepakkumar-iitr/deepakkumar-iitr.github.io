@@ -11,7 +11,7 @@ body {
   border: 3px solid #73AD21;
 }
 </style>
-<div >
+<div class='ex1'>
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
