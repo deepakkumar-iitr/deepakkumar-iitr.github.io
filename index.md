@@ -42,7 +42,7 @@ _Indian Institute of Technology, Roorkee_\
     - Computer Vision  \
     - Deep Learning          \
     - Numerical Optimization     \
-    - Time Series Data Analysis
+    - Time Series Data Analysis \
 **Research Area:** Affective Computing, HCI, Computer Vision \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
