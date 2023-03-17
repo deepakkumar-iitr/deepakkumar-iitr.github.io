@@ -79,8 +79,7 @@ table, th, td {
 </style>
 <table style="width:100%">                 
     <tr valign="top">   
-      <td style="vertical-align:top;">==$0
-        <b>1</b>".&nbsp;"</td>   
+      <td style="vertical-align:top;"><b>1</b>".&nbsp;"</td>   
       <td style="width:25%"><img src="https://github.com/deepakkumar-iitr/deepakkumar-iitr.github.io/blob/main/CVIP-3.jpg", width="480"></td>
         <td style="width:75%">D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
 International Conference on Computer Vision & Image Processing (CVIP 2022)</td>
