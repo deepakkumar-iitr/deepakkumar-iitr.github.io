@@ -5,8 +5,13 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+  div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
 </style>
-<div>
+<div >
   
   <a href="#contact" class="ui-btn ui-shadow ui-corner-all ui-btn-inline ui-mini" style="float:right"><pre>Contact</pre></a>
   
