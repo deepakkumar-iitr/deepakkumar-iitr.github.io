@@ -38,11 +38,12 @@ I am a Ph.D. student in the Computer Science and Engineering department at India
 **PhD(Computer Science and Engineering)**\
 _Indian Institute of Technology, Roorkee_\
 **Joining Date:** Dec, 2021\
-**Course Work Details:** \
+**Course Work Details:(CGPA: 8.58)** \
     - Computer Vision  \
     - Deep Learning          \
     - Numerical Optimization     \
-**Research Area:** Computer Vision \
+    - Time Series Data Analysis
+**Research Area:** Affective Computing, HCI, Computer Vision \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
 **M.Tech. (Computer Science and Engg.), 2016**\
