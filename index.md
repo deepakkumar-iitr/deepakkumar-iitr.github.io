@@ -62,9 +62,7 @@ _Uttar Pradesh Technical University, Lucknow_
    - Machine learning  
    - Deep Learning
 
-%%## Publications
-%%   - D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
-%%International Conference on Computer Vision & Image Processing (CVIP 2022).
+
 ## Publications
 <style>
 table, th, td {
@@ -73,10 +71,8 @@ table, th, td {
   border-collapse: collapse;
 }
 </style>
-
 <table style="width:100%">                 
     <tr>    
-      
          <td style="width:25%"><img src="https://github.com/deepakkumar-iitr/deepakkumar-iitr.github.io/blob/main/CVIP-2.jpg"></td>
         <td style="width:75%">D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
 International Conference on Computer Vision & Image Processing (CVIP 2022)</td>
