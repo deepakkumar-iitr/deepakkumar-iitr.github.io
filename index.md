@@ -51,12 +51,12 @@ _Indian Institute of Technology, Roorkee_\
 **Research Area:** Affective Computing, HCI, Computer Vision \
 **Supervisor:** [Prof. Balasubramanian Raman](https://balarsgroup.github.io/)
 
-**M.Tech. (Computer Science and Engg.), 2016**\
+**M.Tech. (Computer Science and Engg.)**\
 _Motilal Nehru National Institute of Technology Allahabad_ \
 **Supervisor:** [Prof.Rajesh Tripathi](http://mnnit.ac.in/profile/rajeshtcsed) \
 **CGPA**: 8.25
 
-**B.Tech. (Computer Science and Engineering), 2012**\
+**B.Tech. (Computer Science and Engineering)**\
 _Uttar Pradesh Technical University, Lucknow_
 
 ## Achievements 
