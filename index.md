@@ -80,8 +80,8 @@ table, th, td {
 <table style="width:100%">                 
     <tr valign="top">   
       <td style="vertical-align:top;"><b>1.</b></td>   
-      <td style="width:35%"><img src="https://github.com/deepakkumar-iitr/deepakkumar-iitr.github.io/blob/main/CVIP_Final.png"></td>
-        <td style="width:65%">D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
+      <td style="width:25%"><img src="https://github.com/deepakkumar-iitr/deepakkumar-iitr.github.io/blob/main/CVIP_Final.png"> == $0 </td>
+        <td style="width:75%">D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
 International Conference on Computer Vision & Image Processing (CVIP 2022)</td>
     </tr>
 </table>
