@@ -80,8 +80,7 @@ table, th, td {
 <table style="width:100%">                 
     <tr valign="top">     
       <td style="width:25%"><img src="https://github.com/deepakkumar-iitr/deepakkumar-iitr.github.io/blob/main/CVIP_Final1.jpg"> </td>
-      <td style="width:75%">D. Kumar, R. Balasubramanian, “Speech-based Automatic Prediction of Interview Traits”, 7th
-International Conference on Computer Vision & Image Processing (CVIP 2022)</td>
+      <td style="width:75%">Kumar, D., Raman, B. (2023). Speech-Based Automatic Prediction of Interview Traits. In: Gupta, D., Bhurchandi, K., Murala, S., Raman, B., Kumar, S. (eds) Computer Vision and Image Processing. CVIP 2022. Communications in Computer and Information Science, vol 1777. Springer, Cham. https://doi.org/10.1007/978-3-031-31417-9_44 </td>
     </tr>
 </table>
 
