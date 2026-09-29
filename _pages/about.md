@@ -63,7 +63,9 @@ My research interests include robot learning with VLA models, multimodal affecti
 </div>
 
 <style>
-  .dk-news { margin-top: 2rem; }
+  .dk-news { clear: both; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(0,0,0,.15); }
+  .dk-news h2 { margin-bottom: 1rem; }
+  h2:has(> a[href$="/publications/"]) { clear: both; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(0,0,0,.15); }
   .dk-news-table { width: 100%; border-collapse: collapse; }
   .dk-news-table th { white-space: nowrap; vertical-align: top; padding: .35rem 1rem .35rem 0; font-weight: 600; width: 1%; }
   .dk-news-table td { padding: .35rem 0; vertical-align: top; }
