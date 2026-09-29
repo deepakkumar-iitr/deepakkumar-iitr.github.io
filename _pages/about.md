@@ -79,6 +79,9 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-news-head h3 { margin: 0; }
   .dk-news-close { background: none; border: none; font-size: 1.8rem; line-height: 1; cursor: pointer; color: inherit; }
   h2 a[href$="/publications/"] { text-transform: capitalize; }
+  @media (min-width: 768px) { .profile { margin-top: -5.5rem; width: 25%; max-width: 240px; } }
+  .profile .more-info { font-family: inherit; text-align: center; font-size: .95rem; }
+  .profile .more-info p { margin: 0; }
 </style>
 
 <script>
