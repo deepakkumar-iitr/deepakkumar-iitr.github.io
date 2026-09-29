@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher, AI Division, <a href='https://www.kddi-research.jp/english'>KDDI Research, Inc.</a>
 
@@ -32,7 +32,7 @@ My research interests include robot learning with VLA models, multimodal affecti
 
 
 <div class="dk-news">
-  <h2>news</h2>
+  <h2>News</h2>
   {% assign all_news = site.news | sort: "date" | reverse %}
   <table class="dk-news-table">
     {% for item in all_news limit: 5 %}
@@ -76,6 +76,7 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-news-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: .5rem; }
   .dk-news-head h3 { margin: 0; }
   .dk-news-close { background: none; border: none; font-size: 1.8rem; line-height: 1; cursor: pointer; color: inherit; }
+  h2 a[href$="/publications/"] { text-transform: capitalize; }
 </style>
 
 <script>
