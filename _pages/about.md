@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, AI Division, <a href='https://www.kddi-resear
 
 profile:
   align: right
-  image: prof_pic.png
+  image: deepak_profile.png
   image_circular: true
   more_info: >
     <p>KDDI Research, Inc.</p>
