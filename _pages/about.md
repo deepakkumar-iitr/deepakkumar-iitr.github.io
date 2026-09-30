@@ -37,6 +37,7 @@ My research interests include robot learning with VLA models, multimodal affecti
     <a class="dk-icon" href="https://scholar.google.com/citations?user=hZhuLIwAAAAJ" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     <a class="dk-icon" href="https://github.com/deepakkumar-iitr" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
     <a class="dk-icon" href="https://www.linkedin.com/in/deepak-kumar-ph-d-38ab1347/" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+    <a class="dk-icon" href="{{ '/assets/pdf/Deepak_Kumar_CV.pdf' | relative_url }}" target="_blank" rel="noopener" title="CV" aria-label="CV"><i class="fa-solid fa-file-lines"></i></a>
   </div>
   <div class="dk-tags">
     <span class="dk-tag">VLA Models</span>
