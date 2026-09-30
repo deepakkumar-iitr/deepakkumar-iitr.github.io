@@ -9,7 +9,11 @@ nav_order: 6
 
 ### Academic Service
 
+**Meta-Reviewer**
+- Meta-Reviewer, [CVIP 2026](https://cvip2026.nitc.ac.in), 11th International Conference on Computer Vision & Image Processing, NIT Calicut, India (Dec 2026)
+
 **Program Committee**
+- Technical Program Committee member, [PerAgents 2027](https://peragents.github.io/2027/): First International Workshop on Pervasive Agentic Systems and Multimodal Foundation Models, co-located with [PerCom 2027](https://percom.org/), Goa, India (Mar 2027)
 - Program Committee member, A2I: Affective Artificial Intelligence workshop at ICPR 2024, Kolkata, India (Dec 2024)
 
 **Reviewer: Journals**
