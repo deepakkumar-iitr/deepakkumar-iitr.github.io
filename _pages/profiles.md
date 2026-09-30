@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: People
 description: members of the lab or group
-nav: true
+nav: false # hidden for now; set to true to show again
 nav_order: 7
 
 profiles:
