@@ -31,6 +31,23 @@ I received my Ph.D. in Computer Science from [IIT Roorkee](https://www.iitr.ac.i
 My research interests include robot learning with VLA models, multimodal affective computing (audio, video, text, and physiological signals), and Vision-Language Models.
 
 
+<div class="dk-quick">
+  <div class="dk-icons">
+    <a class="dk-icon" href="mailto:d_kumar@cs.iitr.ac.in" target="_blank" rel="noopener" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+    <a class="dk-icon" href="https://scholar.google.com/citations?user=hZhuLIwAAAAJ" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a class="dk-icon" href="https://github.com/deepakkumar-iitr" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+    <a class="dk-icon" href="https://www.linkedin.com/in/deepak-kumar-ph-d-38ab1347/" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+    <a class="dk-icon" href="{{ '/assets/pdf/DeepakKumar_CV.pdf' | relative_url }}" target="_blank" rel="noopener" title="CV" aria-label="CV"><i class="fa-solid fa-file-lines"></i></a>
+  </div>
+  <div class="dk-tags">
+    <span class="dk-tag">VLA Models</span>
+    <span class="dk-tag">Robot Learning</span>
+    <span class="dk-tag">Affective Computing</span>
+    <span class="dk-tag">Multimodal Learning</span>
+    <span class="dk-tag">Vision-Language Models</span>
+  </div>
+</div>
+
 <div class="dk-news">
   <h2>News</h2>
   {% assign all_news = site.news | sort: "date" | reverse %}
@@ -189,6 +206,14 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-exp-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; margin-bottom: .25rem; }
   .dk-role { font-style: italic; }
   h2:has(> a[href$="/publications/"]) { clear: both; }
+  .dk-quick { margin-top: 1.25rem; }
+  .dk-icons { display: flex; gap: .6rem; flex-wrap: wrap; margin-bottom: .9rem; }
+  .dk-icon { width: 2.4rem; height: 2.4rem; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;
+             border: 1px solid var(--global-theme-color, #b509ac); color: var(--global-theme-color, #b509ac); font-size: 1.1rem;
+             transition: background .15s, color .15s; text-decoration: none; }
+  .dk-icon:hover { background: var(--global-theme-color, #b509ac); color: #fff; text-decoration: none; }
+  .dk-tags { display: flex; gap: .45rem; flex-wrap: wrap; }
+  .dk-tag { background: #f3e8f7; color: #6b1f66; border-radius: 2rem; padding: .25rem .8rem; font-size: .85rem; font-weight: 500; }
 </style>
 
 <script>
