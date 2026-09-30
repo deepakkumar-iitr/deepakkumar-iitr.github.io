@@ -62,6 +62,57 @@ My research interests include robot learning with VLA models, multimodal affecti
   </dialog>
 </div>
 
+
+<div class="dk-section">
+  <h2>Education</h2>
+  <div class="dk-edu-grid">
+    <div class="dk-edu-card">
+      <h3>Ph.D. in Computer Science</h3>
+      <p class="dk-inst">Indian Institute of Technology Roorkee, Uttarakhand, India</p>
+      <p class="dk-date">&bull; Dec 2021 – Jul 2025</p>
+      <p class="dk-note">Thesis: <em>From Signals to Visuals: Multimodal Affect and Behavior Analysis</em></p><p class="dk-note">Supervisor: Prof. Balasubramanian Raman</p>
+    </div>
+    <div class="dk-edu-card">
+      <h3>M.Tech.</h3>
+      <p class="dk-inst">Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India</p>
+      <p class="dk-date">&bull; Aug 2014 – Jun 2016</p>
+      <p class="dk-note">Supervisor: Prof. Rajesh Tripathi</p>
+    </div>
+    <div class="dk-edu-card">
+      <h3>B.Tech.</h3>
+      <p class="dk-inst">Uttar Pradesh Technical University, Lucknow, India</p>
+      
+      
+    </div>
+  </div>
+</div>
+
+<div class="dk-section">
+  <h2>Work Experience</h2>
+  <div class="dk-exp-list">
+    <div class="dk-exp-item">
+      <h3>KDDI Research, Inc., Fujimino, Saitama, Japan</h3>
+      <div class="dk-exp-row"><span class="dk-role">Postdoctoral Researcher</span><span class="dk-date">Apr 2026 – Present</span></div>
+      <p class="dk-note">Working on Vision-Language-Action (VLA) models for robot manipulation.</p>
+    </div>
+    <div class="dk-exp-item">
+      <h3>Samsung Research Institute Bangalore (SRI-B), India</h3>
+      <div class="dk-exp-row"><span class="dk-role">Research Intern</span><span class="dk-date">Feb 2025 – Aug 2025</span></div>
+      <p class="dk-note">Worked on Vision-Language Models (VLMs).</p>
+    </div>
+    <div class="dk-exp-item">
+      <h3>Deloitte US-India Offices</h3>
+      <div class="dk-exp-row"><span class="dk-role">Work-Studentship</span><span class="dk-date">Aug 2023 – Jan 2024</span></div>
+      
+    </div>
+    <div class="dk-exp-item">
+      <h3>College of Technology, GBPUAT, Pantnagar, Uttarakhand, India</h3>
+      <div class="dk-exp-row"><span class="dk-role">Assistant Professor under TEQIP-III (NPIU-MHRD)</span><span class="dk-date">Oct 2018 – Dec 2021</span></div>
+      
+    </div>
+  </div>
+</div>
+
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a></h2>
 <div class="publications">
 {% bibliography --group_by none --query @*[selected=true]* %}
@@ -122,6 +173,22 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-card-img img { width: 100%; height: 100%; object-fit: contain; display: block; }
   .dk-card h3 { font-size: 1.1rem; font-weight: 700; text-align: center; margin: 1rem 1rem .4rem; }
   .dk-card p { font-size: .92rem; text-align: center; color: #555; margin: 0 1rem 1.1rem; }
+  .dk-section { clear: both; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(0,0,0,.15); }
+  .dk-section > h2 { margin-bottom: 1.25rem; }
+  .dk-edu-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.25rem; }
+  .dk-edu-card { background: #fff; border: 1px solid rgba(0,0,0,.08); border-left: 4px solid var(--global-theme-color, #b509ac);
+                 border-radius: 12px; padding: 1rem 1.1rem; box-shadow: 0 2px 10px rgba(0,0,0,.05); }
+  .dk-edu-card h3, .dk-exp-item h3 { font-size: 1.08rem; font-weight: 700; margin: 0 0 .3rem; }
+  .dk-inst { margin: 0 0 .3rem; color: #444; }
+  .dk-date { color: var(--global-theme-color, #b509ac); font-size: .92rem; font-weight: 600; margin: 0 0 .35rem; white-space: nowrap; }
+  .dk-note { font-size: .92rem; color: #555; margin: 0 0 .2rem; }
+  .dk-exp-list { display: flex; flex-direction: column; gap: 1rem; }
+  .dk-exp-item { padding: .25rem 0 .9rem 1.1rem; border-left: 3px solid rgba(0,0,0,.12); position: relative; }
+  .dk-exp-item::before { content: ""; position: absolute; left: -7px; top: .45rem; width: 11px; height: 11px; border-radius: 50%;
+                         background: var(--global-theme-color, #b509ac); }
+  .dk-exp-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; margin-bottom: .25rem; }
+  .dk-role { font-style: italic; }
+  h2:has(> a[href$="/publications/"]) { clear: both; }
 </style>
 
 <script>
