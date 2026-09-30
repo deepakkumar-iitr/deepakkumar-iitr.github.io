@@ -89,7 +89,7 @@ My research interests include robot learning with VLA models, multimodal affecti
       <p class="dk-note">Thesis: <em>From Signals to Visuals: Multimodal Affect and Behavior Analysis</em></p><p class="dk-note">Supervisor: Prof. Balasubramanian Raman</p>
     </div>
     <div class="dk-edu-card">
-      <h3>M.Tech.</h3>
+      <h3>M.Tech. in Software Engineering</h3>
       <p class="dk-inst">Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India</p>
       <p class="dk-date">&bull; Aug 2014 – Jun 2016</p>
       <p class="dk-note">Supervisor: Prof. Rajesh Tripathi</p>
@@ -127,6 +127,18 @@ My research interests include robot learning with VLA models, multimodal affecti
       
     </div>
   </div>
+</div>
+
+<div class="dk-section">
+  <h2>Awards &amp; Honors</h2>
+  <ul class="dk-awards">
+    <li><span class="dk-award-date">Dec 2024</span><span>Travel Grant to attend the 5th Indian Symposium on Machine Learning (IndoML 2024), BITS Pilani Goa.</span></li>
+    <li><span class="dk-award-date">Oct 2024</span><span>Top-3 paper in the MultiMediate Challenge at ACM Multimedia 2024.</span></li>
+    <li><span class="dk-award-date">Jun 2024</span><span>Finalist, Qualcomm Innovation Fellowship India 2024.</span></li>
+    <li><span class="dk-award-date">May 2024</span><span>2nd place (team lead, “Syntax”) in the Brain Responses to Emotional Avatars Challenge, IEEE FG 2024.</span></li>
+    <li><span class="dk-award-date">Aug 2023</span><span>First rank in the Data Science and AI Quiz by CommBank India at SocProS 2023, IIT Roorkee.</span></li>
+    <li><span class="dk-award-date">Nov 2022</span><span>Microsoft Research registration and travel grant to present at CVIP 2022.</span></li>
+  </ul>
 </div>
 
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a></h2>
@@ -213,6 +225,10 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-icon:hover { background: var(--global-theme-color, #b509ac); color: #fff; text-decoration: none; }
   .dk-tags { display: flex; gap: .45rem; flex-wrap: wrap; }
   .dk-tag { background: #f3e8f7; color: #6b1f66; border-radius: 2rem; padding: .25rem .8rem; font-size: .85rem; font-weight: 500; }
+  .dk-awards { list-style: none; padding: 0; margin: 0; }
+  .dk-awards li { display: flex; gap: 1rem; padding: .55rem 0; border-bottom: 1px solid rgba(0,0,0,.06); }
+  .dk-awards li::before { content: "\1F3C6"; flex: none; }
+  .dk-award-date { flex: none; width: 5.5rem; font-weight: 600; color: var(--global-theme-color, #b509ac); }
 </style>
 
 <script>
