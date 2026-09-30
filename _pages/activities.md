@@ -14,7 +14,7 @@ nav_order: 6
 
 **Program Committee**
 - Technical Program Committee member, [PerAgents 2027](https://peragents.github.io/2027/): First International Workshop on Pervasive Agentic Systems and Multimodal Foundation Models, co-located with [PerCom 2027](https://percom.org/), Goa, India (Mar 2027)
-- Program Committee member, A2I: Affective Artificial Intelligence workshop at ICPR 2024, Kolkata, India (Dec 2024)
+- Program Committee member, [A2I: Affective Artificial Intelligence](https://react-ws.github.io/2024_icpr/) workshop at ICPR 2024, Kolkata, India (Dec 2024)
 
 **Reviewer: Journals**
 - IEEE Transactions on Multimedia (TMM)
