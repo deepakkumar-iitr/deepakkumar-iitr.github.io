@@ -46,7 +46,7 @@ nav_order: 6
 
 ### Conferences, Schools & Training Attended
 
-- **May 2026**: 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026), Kyoto, Japan.
+- **May 2026**: 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026), Kyoto, Japan (registration and travel support from KDDI Research).
 - **Dec 2024**: 5th Indian Symposium on Machine Learning (IndoML 2024), BITS Pilani Goa, India (travel grant).
 - **May 2024**: 18th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2024), Istanbul, Turkey (paper and challenge 2nd place).
 - **Nov 2022**: 7th International Conference on Computer Vision and Image Processing (CVIP 2022), VNIT Nagpur, India (paper presented).
