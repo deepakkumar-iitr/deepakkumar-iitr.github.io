@@ -179,8 +179,8 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-news-table th { white-space: nowrap; vertical-align: top; padding: .35rem 1rem .35rem 0; font-weight: 600; width: 1%; }
   .dk-news-table td { padding: .35rem 0; vertical-align: top; }
   .dk-news-btn { margin-top: .75rem; padding: .4rem 1rem; border-radius: 2rem; cursor: pointer;
-    border: 1px solid var(--global-theme-color, #b509ac); background: transparent; color: var(--global-theme-color, #b509ac); }
-  .dk-news-btn:hover { background: var(--global-theme-color, #b509ac); color: #fff; }
+    border: 1px solid var(--global-theme-color, #4F46E5); background: transparent; color: var(--global-theme-color, #4F46E5); }
+  .dk-news-btn:hover { background: var(--global-theme-color, #4F46E5); color: #fff; }
   .dk-news-dialog { width: min(760px, 92vw); max-height: 80vh; border: none; border-radius: 10px; padding: 1.25rem 1.5rem;
     background: var(--global-bg-color, #fff); color: var(--global-text-color, #000); box-shadow: 0 10px 40px rgba(0,0,0,.25); }
   .dk-news-dialog::backdrop { background: rgba(0,0,0,.5); }
@@ -198,38 +198,38 @@ My research interests include robot learning with VLA models, multimodal affecti
   .dk-card { display: block; background: #fff; border: 1px solid rgba(0,0,0,.08); border-radius: 14px; overflow: hidden;
              box-shadow: 0 2px 10px rgba(0,0,0,.06); color: inherit; text-decoration: none; transition: transform .15s, box-shadow .15s; }
   .dk-card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(0,0,0,.10); text-decoration: none; color: inherit; }
-  .dk-card-img { aspect-ratio: 2 / 1; background: #faf5fc; }
+  .dk-card-img { aspect-ratio: 2 / 1; background: #F5F5FF; }
   .dk-card-img img { width: 100%; height: 100%; object-fit: contain; display: block; }
   .dk-card h3 { font-size: 1.1rem; font-weight: 700; text-align: center; margin: 1rem 1rem .4rem; }
   .dk-card p { font-size: .92rem; text-align: center; color: #555; margin: 0 1rem 1.1rem; }
   .dk-section { clear: both; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(0,0,0,.15); }
   .dk-section > h2 { margin-bottom: 1.25rem; }
   .dk-edu-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.25rem; }
-  .dk-edu-card { background: #fff; border: 1px solid rgba(0,0,0,.08); border-left: 4px solid var(--global-theme-color, #b509ac);
+  .dk-edu-card { background: #fff; border: 1px solid rgba(0,0,0,.08); border-left: 4px solid var(--global-theme-color, #4F46E5);
                  border-radius: 12px; padding: 1rem 1.1rem; box-shadow: 0 2px 10px rgba(0,0,0,.05); }
   .dk-edu-card h3, .dk-exp-item h3 { font-size: 1.08rem; font-weight: 700; margin: 0 0 .3rem; }
   .dk-inst { margin: 0 0 .3rem; color: #444; }
-  .dk-date { color: var(--global-theme-color, #b509ac); font-size: .92rem; font-weight: 600; margin: 0 0 .35rem; white-space: nowrap; }
+  .dk-date { color: var(--global-theme-color, #4F46E5); font-size: .92rem; font-weight: 600; margin: 0 0 .35rem; white-space: nowrap; }
   .dk-note { font-size: .92rem; color: #555; margin: 0 0 .2rem; }
   .dk-exp-list { display: flex; flex-direction: column; gap: 1rem; }
   .dk-exp-item { padding: .25rem 0 .9rem 1.1rem; border-left: 3px solid rgba(0,0,0,.12); position: relative; }
   .dk-exp-item::before { content: ""; position: absolute; left: -7px; top: .45rem; width: 11px; height: 11px; border-radius: 50%;
-                         background: var(--global-theme-color, #b509ac); }
+                         background: var(--global-theme-color, #4F46E5); }
   .dk-exp-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; margin-bottom: .25rem; }
   .dk-role { font-style: italic; }
   h2:has(> a[href$="/publications/"]) { clear: both; }
   .dk-quick { margin-top: 1.25rem; }
   .dk-icons { display: flex; gap: .6rem; flex-wrap: wrap; margin-bottom: .9rem; }
   .dk-icon { width: 2.4rem; height: 2.4rem; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;
-             border: 1px solid var(--global-theme-color, #b509ac); color: var(--global-theme-color, #b509ac); font-size: 1.1rem;
+             border: 1px solid var(--global-theme-color, #4F46E5); color: var(--global-theme-color, #4F46E5); font-size: 1.1rem;
              transition: background .15s, color .15s; text-decoration: none; }
-  .dk-icon:hover { background: var(--global-theme-color, #b509ac); color: #fff; text-decoration: none; }
+  .dk-icon:hover { background: var(--global-theme-color, #4F46E5); color: #fff; text-decoration: none; }
   .dk-tags { display: flex; gap: .45rem; flex-wrap: wrap; }
-  .dk-tag { background: #f3e8f7; color: #6b1f66; border-radius: 2rem; padding: .25rem .8rem; font-size: .85rem; font-weight: 500; }
+  .dk-tag { background: #EEEDFC; color: #312E81; border-radius: 2rem; padding: .25rem .8rem; font-size: .85rem; font-weight: 500; }
   .dk-awards { list-style: none; padding: 0; margin: 0; }
   .dk-awards li { display: flex; gap: 1rem; padding: .55rem 0; border-bottom: 1px solid rgba(0,0,0,.06); }
   .dk-awards li::before { content: "\1F3C6"; flex: none; }
-  .dk-award-date { flex: none; width: 5.5rem; font-weight: 600; color: var(--global-theme-color, #b509ac); }
+  .dk-award-date { flex: none; width: 5.5rem; font-weight: 600; color: var(--global-theme-color, #4F46E5); }
 </style>
 
 <script>
