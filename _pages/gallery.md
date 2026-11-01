@@ -3,7 +3,8 @@ layout: page
 title: Gallery
 permalink: /gallery/
 description: Moments from conferences, academic visits, and travel.
-nav: false
+nav: true
+nav_order: 7
 albums:
   - { folder: FG2026,               cat: conference, title: "FG 2026",          where: "Kyoto, Japan",              when: "May 2026" }
   - { folder: IndoML2024,           cat: conference, title: "IndoML 2024",      where: "BITS Pilani Goa, India",    when: "Dec 2024" }
