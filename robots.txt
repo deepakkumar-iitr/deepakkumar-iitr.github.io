@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://deepakkumar-iitr.github.io/homepage/sitemap.xml
+Sitemap: https://deepakkumar-iitr.github.io/sitemap.xml
