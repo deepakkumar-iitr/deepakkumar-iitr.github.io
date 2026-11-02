@@ -11,6 +11,7 @@ albums:
   - { folder: FG2024,               cat: conference, title: "FG 2024",          where: "Istanbul, Türkiye",         when: "May 2024" }
   - { folder: ICVGIP2023,           cat: conference, title: "ICVGIP 2023",      where: "IIT Ropar, India",          when: "Dec 2023" }
   - { folder: NII_Tokyo,            cat: visit,      title: "Visit to NII",     where: "Tokyo, Japan",              when: "" }
+  - { folder: SRIB_Bangalore,       cat: visit,      title: "Samsung Research (SRI-B)", where: "Bangalore, India", when: "Feb–Aug 2025" }
   - { folder: IISC_Bangalore_Visit, cat: visit,      title: "Visit to IISc",    where: "Bangalore, India",          when: "" }
   - { folder: JapanDiaries,         cat: travel,     title: "Japan Diaries",    where: "Japan",                     when: "" }
   - { folder: Kedarnath,            cat: travel,     title: "Kedarnath",        where: "Uttarakhand, India",        when: "" }
@@ -21,7 +22,7 @@ albums:
 <div class="gal-filters" role="group" aria-label="Filter albums">
   <button type="button" class="gal-btn is-active" data-filter="all">All</button>
   <button type="button" class="gal-btn" data-filter="conference">Conferences</button>
-  <button type="button" class="gal-btn" data-filter="visit">Academic visits</button>
+  <button type="button" class="gal-btn" data-filter="visit">Visits &amp; internships</button>
   <button type="button" class="gal-btn" data-filter="travel">Travel</button>
 </div>
 
